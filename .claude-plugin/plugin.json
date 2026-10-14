@@ -1,0 +1,9 @@
+{
+  "name": "edwin-skills",
+  "description": "Engineering skills for coding agents, sized to the stakes of the task.",
+  "version": "0.1.0",
+  "author": { "name": "Edwin Samar" },
+  "homepage": "https://github.com/edwinsamar/skills",
+  "repository": "https://github.com/edwinsamar/skills",
+  "license": "MIT"
+}

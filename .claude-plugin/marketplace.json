@@ -1,0 +1,14 @@
+{
+  "name": "edwin-skills",
+  "owner": { "name": "Edwin Samar" },
+  "metadata": {
+    "description": "Engineering skills for coding agents, sized to the stakes of the task."
+  },
+  "plugins": [
+    {
+      "name": "edwin-skills",
+      "source": "./",
+      "description": "grill-me, spec, plan, tdd, security-hardening and full-review."
+    }
+  ]
+}
