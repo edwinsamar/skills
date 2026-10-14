@@ -1,9 +1,9 @@
 ---
-name: plan
+name: build-plan
 description: Break approved work into small phases, each with a check, and build them one at a time. Use after a spec, for any change across more than a few files, or when a task is too big to do in one step.
 ---
 
-# Plan
+# Build plan
 
 Break the work into small units. Each unit ends in a state that you can check. Do not start the next unit until the current one passes.
 

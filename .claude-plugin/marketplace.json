@@ -8,7 +8,7 @@
     {
       "name": "edwin-skills",
       "source": "./",
-      "description": "grill-me, spec, plan, tdd, security-hardening and full-review."
+      "description": "grill-me, spec, build-plan, tdd, security-hardening and full-review."
     }
   ]
 }

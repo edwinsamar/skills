@@ -10,7 +10,7 @@ Use more process when the stakes are higher.
 |---|---|---|---|
 | Small tweak | Typo, config value, one-line fix | Do it. Check it yourself. | none |
 | Small feature | One clear behavior, a few files | Ask questions first. Write the test first. | `grill-me`, `tdd` |
-| Big or unclear feature | Many files, new module, vague requirements | Spec and plan. Build in phases with a check after each. | `spec`, `plan` |
+| Big or unclear feature | Many files, new module, vague requirements | Spec and plan. Build in phases with a check after each. | `spec`, `build-plan` |
 | Production, security, cannot undo | Deploy, migration, auth, secrets, delete | Doubt everything. Harden. Full review. | `full-review`, `security-hardening` |
 
 ## Skills
@@ -19,7 +19,7 @@ Use more process when the stakes are higher.
 |---|---|
 | [`grill-me`](skills/grill-me/SKILL.md) | Ask questions in rounds until no decision is open |
 | [`spec`](skills/spec/SKILL.md) | Write what to build and how to check it, before code |
-| [`plan`](skills/plan/SKILL.md) | Break work into small units, each with a check |
+| [`build-plan`](skills/build-plan/SKILL.md) | Break work into small units, each with a check |
 | [`tdd`](skills/tdd/SKILL.md) | Write a failing test, then make it pass |
 | [`security-hardening`](skills/security-hardening/SKILL.md) | Close the paths an attacker or bad input can use |
 | [`full-review`](skills/full-review/SKILL.md) | Find what a change breaks and prove the key facts |

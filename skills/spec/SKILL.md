@@ -1,6 +1,6 @@
 ---
 name: spec
-description: Write a short spec before code for a big or unclear feature, a new module, or a change across many files. Use when requirements are vague, when "spec", "design this" or "write it up first" is asked, or before the plan skill.
+description: Write a short spec before code for a big or unclear feature, a new module, or a change across many files. Use when requirements are vague, when "spec", "design this" or "write it up first" is asked, or before the build-plan skill.
 ---
 
 # Spec
@@ -82,7 +82,7 @@ Keep it to one page if you can.
 
 ## 6. Get approval
 
-Show the spec to the user. Do not write production code until the user approves it. Then use the `plan` skill.
+Show the spec to the user. Do not write production code until the user approves it. Then use the `build-plan` skill.
 
 ## Keep the spec current
 
