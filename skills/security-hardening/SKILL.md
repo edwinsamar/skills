@@ -1,6 +1,10 @@
 ---
 name: security-hardening
 description: Check and harden code that touches user input, auth, secrets, permissions, files, external services or production data. Use before you ship such a change, or for "security", "harden", "is this safe" or "threat model".
+metadata:
+  track: engineering
+  tier: 4
+  tagline: Treat every input as hostile until proven safe.
 ---
 
 # Security hardening

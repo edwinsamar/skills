@@ -1,6 +1,10 @@
 ---
 name: build-plan
 description: Break approved work into small phases, each with a check, and build them one at a time. Use after a spec, for any change across more than a few files, or when a task is too big to do in one step.
+metadata:
+  track: engineering
+  tier: 3
+  tagline: Small units, each one checked before the next.
 ---
 
 # Build plan

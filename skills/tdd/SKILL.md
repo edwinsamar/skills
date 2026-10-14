@@ -1,6 +1,10 @@
 ---
 name: tdd
 description: Write a failing test first, then make it pass, for new logic or a bug fix. Use for "TDD", "failing test", "regression test", a small feature with clear behavior, or a bug with a cheap local test path.
+metadata:
+  track: engineering
+  tier: 2
+  tagline: Red first. A test that never failed proves nothing.
 ---
 
 # TDD

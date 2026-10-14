@@ -15,6 +15,11 @@ These skills are new text. They use ideas, steps and some structure from the pro
 | `security-hardening` | agent-skills `security-and-hardening` | Always, ask first and never lists, checklist, secret check |
 | `full-review` | agent-skills `code-review-and-quality` | Five axes, tests first, severity labels, honest review |
 | `full-review` | pstack `blast-radius`, `principle-prove-it-works` | Look past the diff, the one key fact, levels of proof |
+| `experiment-design` | pstack `principle-attack-the-premise`, `principle-sequence-verifiable-units` | Test the shared assumption after repeated failures, one change per unit |
+| `ml-eval` | pstack `principle-explain-the-number`, `principle-prove-it-works` | Rule out what else a number measures, check the real output |
+| `reproducible-run` | pstack `principle-make-operations-idempotent`, `principle-build-the-lever` | Runs that converge after a restart, a script for each result |
+| `gpu-benchmark` | pstack `benchmark-checklist`, `principle-explain-the-number` | Claim first, tuned sides, repeats, limiter, end-to-end share |
+| `gpu-benchmark` | agent-skills `performance-optimization` | Measure, fix, measure again the same way, keep or revert |
 
 pstack is a port of Poteto's pstack for Cursor.
 

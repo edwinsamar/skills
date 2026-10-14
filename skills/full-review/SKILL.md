@@ -1,6 +1,10 @@
 ---
 name: full-review
 description: Doubt-driven review of a change before it ships to production, touches security, or does something you cannot undo. Finds what the change breaks outside the diff and proves the key facts by running code. Use for "full review", "blast radius", "what could this break", "tear this apart", or before a merge or deploy.
+metadata:
+  track: engineering
+  tier: 4
+  tagline: Assume it is wrong until you prove it is safe.
 ---
 
 # Full review

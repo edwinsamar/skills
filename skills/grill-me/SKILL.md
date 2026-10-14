@@ -1,6 +1,10 @@
 ---
 name: grill-me
 description: Interview the user in rounds until a plan, design or idea has no open decisions. Use for "grill me", "grill this", "stress test my plan", or before a small feature when scope, inputs or edge cases are not clear.
+metadata:
+  track: engineering
+  tier: 2
+  tagline: Ask until nothing is assumed.
 ---
 
 # Grill me

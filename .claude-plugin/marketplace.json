@@ -2,13 +2,13 @@
   "name": "edwin-skills",
   "owner": { "name": "Edwin Samar" },
   "metadata": {
-    "description": "Engineering skills for coding agents, sized to the stakes of the task."
+    "description": "Production and ML engineering skills for coding agents."
   },
   "plugins": [
     {
       "name": "edwin-skills",
       "source": "./",
-      "description": "grill-me, spec, build-plan, tdd, security-hardening and full-review."
+      "description": "Ten skills for production engineering and ML engineering."
     }
   ]
 }

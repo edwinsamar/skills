@@ -1,6 +1,10 @@
 ---
 name: spec
 description: Write a short spec before code for a big or unclear feature, a new module, or a change across many files. Use when requirements are vague, when "spec", "design this" or "write it up first" is asked, or before the build-plan skill.
+metadata:
+  track: engineering
+  tier: 3
+  tagline: Agree on what to build before you build it.
 ---
 
 # Spec

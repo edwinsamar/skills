@@ -1,6 +1,6 @@
 # Edwin Skills
 
-Engineering skills for coding agents. Each skill is one short `SKILL.md`. They work in Claude Code, Codex and other agents that read the `SKILL.md` format.
+Production engineering and ML engineering skills for coding agents. Each skill is one short `SKILL.md`. They work in Claude Code, Codex and other agents that read the `SKILL.md` format.
 
 ## Ceremony should match stakes
 
@@ -23,6 +23,17 @@ Use more process when the stakes are higher.
 | [`tdd`](skills/tdd/SKILL.md) | Write a failing test, then make it pass |
 | [`security-hardening`](skills/security-hardening/SKILL.md) | Close the paths an attacker or bad input can use |
 | [`full-review`](skills/full-review/SKILL.md) | Find what a change breaks and prove the key facts |
+
+## ML engineering
+
+Use these for experiments, evals, runs and performance work.
+
+| Skill | Use it to |
+|---|---|
+| [`experiment-design`](skills/experiment-design/SKILL.md) | Set the hypothesis, arms and pass bar before the run |
+| [`ml-eval`](skills/ml-eval/SKILL.md) | Make eval numbers real: frozen set, leakage checks, CIs, judge calibration |
+| [`reproducible-run`](skills/reproducible-run/SKILL.md) | Trace every number to one command: manifest, seeds, resume, cluster jobs |
+| [`gpu-benchmark`](skills/gpu-benchmark/SKILL.md) | Measure speed correctly: reference check, sync, repeats, roofline |
 
 ## Install
 
